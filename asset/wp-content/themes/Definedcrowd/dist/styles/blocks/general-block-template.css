@@ -1,0 +1,22 @@
+.general-block {
+  padding: 160px 0;
+  clear: both;
+}
+@media (max-width: 1024px) {
+  .general-block {
+    padding: 80px 0 80px;
+  }
+}
+.general-block > .container > h2 {
+  text-align: center;
+}
+.general-block > .container > p {
+  text-align: center;
+  padding-bottom: 40px;
+  max-width: 614px;
+  margin: 0 auto;
+}
+.general-block .video-screen-general {
+  padding: 0;
+}
+/*# sourceMappingURL=general-block-template.css.map*/
